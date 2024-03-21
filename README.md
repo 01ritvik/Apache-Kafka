@@ -70,12 +70,9 @@ a.	Example 2 & 3: Leveraged Jupyter notebooks to interact with Kafka, both for d
 b. Visual Output: The process and outcomes were documented through screenshots, illustrating the setup, execution, and successful message passing within your Kafka environment.
 
 Conclusion:
-1.	Direct Interaction through CMD
-a.	Initiating my exploration of Apache Kafka, I embarked on a foundational exercise: direct message production and consumption via CMD. This initial foray provided not only a practical demonstration of Kafka's real-time messaging capabilities but also served as a foundational understanding of its operational mechanics.
-2.	Integration with Jupyter Notebooks: Initial Experiment
-b.	Progressing to a more sophisticated application, I integrated Kafka with Jupyter notebooks to leverage the dynamic execution environment for running Python scripts that interact with Kafka. This experiment highlighted the seamless interoperability between Kafka and Python, expanding the utility of Kafka into data processing and analytical endeavors. It was a demonstrative exercise in bridging data production with consumption in real-time, utilizing familiar analytical tools. 
-3.	Advanced Data Handling:UsingCSV Data
-b.	In a further exploration of Kafka's capabilities, I introduced a CSV file as a data source for the Kafka producer. This experiment was pivotal in showcasing Kafka's flexibility in handling various data formats and sources, reinforcing its adaptability in diverse data ingestion scenarios. 
+1.	Direct Interaction through CMD: Initiating my exploration of Apache Kafka, I embarked on a foundational exercise: direct message production and consumption via CMD. This initial foray provided not only a practical demonstration of Kafka's real-time messaging capabilities but also served as a foundational understanding of its operational mechanics.
+2.	Integration with Jupyter Notebooks: Initial Experiment:	Progressing to a more sophisticated application, I integrated Kafka with Jupyter notebooks to leverage the dynamic execution environment for running Python scripts that interact with Kafka. This experiment highlighted the seamless interoperability between Kafka and Python, expanding the utility of Kafka into data processing and analytical endeavors. It was a demonstrative exercise in bridging data production with consumption in real-time, utilizing familiar analytical tools. 
+3.	Advanced Data Handling:UsingCSV Data: In a further exploration of Kafka's capabilities, I introduced a CSV file as a data source for the Kafka producer. This experiment was pivotal in showcasing Kafka's flexibility in handling various data formats and sources, reinforcing its adaptability in diverse data ingestion scenarios. 
 
 
 
