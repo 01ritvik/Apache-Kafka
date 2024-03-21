@@ -63,18 +63,19 @@ Steps to run:
 3.	Then again the output will be on the same consumer CMD cell.
 
 
-Result
-•	Direct Interaction via CMD: Highlighted the basic functionality of Kafka through direct input into the Producer CMD, with messages being relayed to the Consumer side, showcasing real-time data streaming capabilities.
-•	Integration with Jupyter Notebooks:
-o	Example 2 & 3: Leveraged Jupyter notebooks to interact with Kafka, both for direct message streaming and for consuming messages from a CSV file. This demonstrates the flexibility of Kafka with different data sources and the potential for integration into data pipelines.
-o	Visual Output: The process and outcomes were documented through screenshots, illustrating the setup, execution, and successful message passing within your Kafka environment.
-Conclusion
-o	Direct Interaction through CMD
-o	Initiating my exploration of Apache Kafka, I embarked on a foundational exercise: direct message production and consumption via CMD. This initial foray provided not only a practical demonstration of Kafka's real-time messaging capabilities but also served as a foundational understanding of its operational mechanics.
-o	Integration with Jupyter Notebooks: Initial Experiment
-o	Progressing to a more sophisticated application, I integrated Kafka with Jupyter notebooks to leverage the dynamic execution environment for running Python scripts that interact with Kafka. This experiment highlighted the seamless interoperability between Kafka and Python, expanding the utility of Kafka into data processing and analytical endeavors. It was a demonstrative exercise in bridging data production with consumption in real-time, utilizing familiar analytical tools. 
-o	Advanced Data Handling:UsingCSV Data
-o	In a further exploration of Kafka's capabilities, I introduced a CSV file as a data source for the Kafka producer. This experiment was pivotal in showcasing Kafka's flexibility in handling various data formats and sources, reinforcing its adaptability in diverse data ingestion scenarios. 
+Result:
+1. Direct Interaction via CMD: Highlighted the basic functionality of Kafka through direct input into the Producer CMD, with messages being relayed to the Consumer side, showcasing real-time data streaming capabilities.
+2. Integration with Jupyter Notebooks:
+a.	Example 2 & 3: Leveraged Jupyter notebooks to interact with Kafka, both for direct message streaming and for consuming messages from a CSV file. This demonstrates the flexibility of Kafka with different data sources and the potential for integration into data pipelines.
+b. Visual Output: The process and outcomes were documented through screenshots, illustrating the setup, execution, and successful message passing within your Kafka environment.
+
+Conclusion:
+1.	Direct Interaction through CMD
+a.	Initiating my exploration of Apache Kafka, I embarked on a foundational exercise: direct message production and consumption via CMD. This initial foray provided not only a practical demonstration of Kafka's real-time messaging capabilities but also served as a foundational understanding of its operational mechanics.
+2.	Integration with Jupyter Notebooks: Initial Experiment
+b.	Progressing to a more sophisticated application, I integrated Kafka with Jupyter notebooks to leverage the dynamic execution environment for running Python scripts that interact with Kafka. This experiment highlighted the seamless interoperability between Kafka and Python, expanding the utility of Kafka into data processing and analytical endeavors. It was a demonstrative exercise in bridging data production with consumption in real-time, utilizing familiar analytical tools. 
+3.	Advanced Data Handling:UsingCSV Data
+b.	In a further exploration of Kafka's capabilities, I introduced a CSV file as a data source for the Kafka producer. This experiment was pivotal in showcasing Kafka's flexibility in handling various data formats and sources, reinforcing its adaptability in diverse data ingestion scenarios. 
 
 
 
